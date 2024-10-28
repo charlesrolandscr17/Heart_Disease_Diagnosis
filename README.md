@@ -17,11 +17,12 @@ prediction result (e.g., “You have a 70% likelihood of having heart disease”
 
 ## Run the Application
 
-1. Create a virtual environment using a library of your choice, such as uv, virtualenv, conda among others. The example below uses uv
+1. Create a virtual environment using a library of your choice, such as uv, virtualenv, conda among others. The example below uses uv.
 `uv venv`
 
 2. Install the required packages.
 `pip install -r requirements.txt`
 
 3. Run streamlit to start up the servers
+
 `streamlit run app.py`
