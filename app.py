@@ -1,7 +1,6 @@
 import streamlit as st
 import numpy as np
 import tensorflow as tf
-from tf_explain.core.gradients_inputs import GradientsInputs
 
 st.title("Heart Disease Diagnosis")
 
